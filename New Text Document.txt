@@ -27,10 +27,11 @@ public class Main {
   static void myMethod() {
     System.out.println("I just got executed!");
 
-	 Mamadou update1
+	 Mamadou update1.2
 
 Mamadou update2
     System.out.println("Mamadou update Main!");
+    System.out.println("Mamadou update Main1!");
     System.out.println("I just got executed!");
 Mamadou update Main
 
