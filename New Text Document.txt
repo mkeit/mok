@@ -1,13 +1,30 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
 
-Det står klart efter en uge, hvor formanden for Danmarksdemokraterne meldte sig klar 
-til regering efter en eventuel borgerlig sejr ved folketingsvalget. Jakob Ellemann-Jensen (V)
- og Søren Pape Poulsen (K) har tidligere slået fast, at de intet ser til hinder for at stå faddere til et ministercomeback uden historisk sidestykke.
- Støjberg har udstået sin fængselsstraf på to måneders ubetinget fængsel efter rigsretsdommen i januar, og derfor er tavlen visket ren, lyder argumentet.
+public class Main {
+  static void myMethod() {
+  Mamadou update1
+    System.out.println("I just got executed!");
+  }
 
-Main1
-Main2 Main2
-Main3
-Main4 Main4
-Main5
-Main6
+  public static void main(String[] args) {
+    myMethod( Mamadou update1);
+  }
+}
+public class Main {
+  static void myMethod() {
+    System.out.println("I just got executed!");
+	 Mamadou update1
+  }
 
+  public static void main(String[] args) {
+    myMethod();
+    myMethod(1);
+	 myMethod1();
+	  myMethod2();
+    myMethod();
+  }
+}
