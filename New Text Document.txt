@@ -6,42 +6,48 @@ public class Main {
 
 public class Main {
   static void myMethod() {
-<<<<<<< HEAD
+
   Mamadou update1
-=======
->>>>>>> master
+
     System.out.println("I just got executed!");
+     System.out.println("I just got executed!");
+      System.out.println("I just got executed!");
+       System.out.println("I just got executed!");
+        System.out.println("I just got executed!");
   }
 
   public static void main(String[] args) {
-<<<<<<< HEAD
+
     myMethod( Mamadou update1);
-=======
+
     myMethod();
->>>>>>> master
-  }
+
 }
 public class Main {
   static void myMethod() {
     System.out.println("I just got executed!");
-<<<<<<< HEAD
+
 	 Mamadou update1
-=======
->>>>>>> master
+
+    System.out.println("I just got executed!");
+    System.out.println("I just got executed!");
+
   }
 
   public static void main(String[] args) {
     myMethod();
-<<<<<<< HEAD
+
     myMethod(1);
 	 myMethod1();
 	  myMethod2();
     myMethod();
-  }
-}
-=======
+
+
+    myMethod();
+    myMethod();
+        myMethod();
     myMethod();
     myMethod();
   }
 }
->>>>>>> master
+
