@@ -30,9 +30,11 @@ public class Main {
 	 Mamadou update1.2
 
 <<<<<<< HEAD
+
 Mamadou update2
     System.out.println("Mamadou update Main!");
 =======
+
     System.out.println("Mamadou update Main1!");
 >>>>>>> 0c529be18d1db7d7b8c5a52e9a67c486910fda73
     System.out.println("I just got executed!");
