@@ -7,7 +7,7 @@ public class Main {
 public class Main {
   static void myMethod() {
 
-  Mamadou update1
+  Tak for idag
 
     System.out.println("I just got executed!");
      System.out.println("I just got executed!");
