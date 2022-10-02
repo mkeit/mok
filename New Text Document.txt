@@ -12,6 +12,7 @@ public class Main {
 
   public static void main(String[] args) {
     myMethod( Mamadou update1);
+    myMethod();
   }
 }
 public class Main {
@@ -27,4 +28,9 @@ public class Main {
 	  myMethod2();
     myMethod();
   }
+}}
+    myMethod();
+    myMethod();
+  }
 }
+>>>>>>> master
