@@ -40,6 +40,16 @@ Mamadou update2
     System.out.println("I just got executed!");
 Mamadou update Main
 
+    System.out.println("I just got executed!");
+        System.out.println("I just got executed!");
+    System.out.println("I just got executed!");
+    System.out.println("I just got executed!");
+        System.out.println("I just got executed!");
+    System.out.println("I just got executed!");
+    System.out.println("I just got executed!");
+        System.out.println("I just got executed!");
+    System.out.println("I just got executed!");
+    System.out.println("I just got executed!");
   }
 
   public static void main(String[] args) {
